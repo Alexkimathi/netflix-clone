@@ -5,7 +5,7 @@
 export default function Home() {
   return (
    <>
-   <h1>whoop whoop</h1>
+   <h1 className="text-2xl text-green-500">whoop whoop</h1>
    </>
   )
 }
